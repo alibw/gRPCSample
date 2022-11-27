@@ -1,0 +1,24 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "gRPCSample";
+
+package time;
+
+message getTime
+{
+  string day = 1;
+  string year = 2;
+}
+
+message EmptyTime
+{
+
+}
+
+service Time {
+  rpc whatTimeItIs(EmptyTime) returns (getTime);
+}
+
+
+
+

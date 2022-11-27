@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Time.cs \
+obj\Debug\net6.0\Protos/TimeGrpc.cs: Protos/Time.proto

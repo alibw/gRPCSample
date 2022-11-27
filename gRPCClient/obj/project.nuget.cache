@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQxPKyAzAoAsjJbutNhb3h/tAMQFRtMeoNMWykb3aV7MVAveuEJ7SFHC3vZKMdxy6Vct8235K6JHIUak6g03wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\RiderProjects\\gRPCSample\\gRPCClient\\gRPCClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\google.protocolbuffers\\2.4.1.555\\google.protocolbuffers.2.4.1.555.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\grpc.core\\2.46.5\\grpc.core.2.46.5.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\grpc.core.api\\2.46.5\\grpc.core.api.2.46.5.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\grpc.tools\\2.51.0-pre1\\grpc.tools.2.51.0-pre1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Google.ProtocolBuffers 2.4.1.555' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Google.ProtocolBuffers",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
